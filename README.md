@@ -1,4 +1,4 @@
-# Preparando Disco para importar ao AMIs da AWS
+# Preparando Disco com Windows 10 e SYSPREP para importar no AMIs da AWS
 
 
 
