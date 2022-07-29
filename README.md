@@ -1,4 +1,4 @@
-# Criando Disco Virtual
+# Preparando Disco para importar ao AMIs da AWS
 
 
 
